@@ -9,5 +9,5 @@ app.get('/products', (req,resp,next) => {
 })
 
 app.listen(port,() => {
-    console.log(`Server is running at port ${port}...`)
+    console.log(`Server running at port ${port}...`)
 })
