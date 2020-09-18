@@ -1,5 +1,5 @@
-# Project5-RestAPI_javascript
-Olá, este projeto demonstra uma aplicação simples de uma Rest API em Javascript em node.js adicionando, removendo, buscando e alterando dados de produtos em um banco de dados utilizando Postman.
+# JavaScript-RestAPI
+Este projeto demonstra uma aplicação simples de uma Rest API em Javascript em node.js adicionando, removendo, buscando e alterando dados de produtos em um banco de dados utilizando Postman.
 
 # Linguagem de programação
 Javascript 
